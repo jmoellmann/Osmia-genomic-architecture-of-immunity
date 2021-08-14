@@ -1,0 +1,12 @@
+GO.ID	Term	Annotated	Significant	Expected	weight01KS	classicKS	weight01KSpadj	classicKSpadj
+GO:0140096	catalytic activity, acting on a protein	15	5	1.91	0.01	0.01	0.11	0.11
+GO:0003824	catalytic activity	30	5	3.83	0.33	0.34	1	1
+GO:0016787	hydrolase activity	17	2	2.17	0.36	0.36	1	1
+GO:1901363	heterocyclic compound binding	16	2	2.04	0.74	0.74	1	1
+GO:0005515	protein binding	20	3	2.55	0.77	0.77	1	1
+GO:0043167	ion binding	20	2	2.55	0.78	0.95	1	1
+GO:0097367	carbohydrate derivative binding	14	2	1.79	0.81	0.81	1	1
+GO:0043168	anion binding	13	1	1.66	0.82	0.82	1	1
+GO:0097159	organic cyclic compound binding	18	2	2.3	0.89	0.89	1	1
+GO:0005488	binding	36	4	4.6	0.96	0.99	1	1
+GO:0003674	molecular_function	47	6	6	1.00	1.00	1	1

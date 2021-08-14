@@ -1,0 +1,12 @@
+	Apis_mellifera	Bombus_terrestris	Ceratina_calcarata	Dufourea_novaeangliae	Eufriesea_mexicana	Habropoda_laboriosa	Megachile_rotundata	Megalopta_genalis	Nomia_melanderi	Osmia_bicornis	Osmia_lignaria
+Apis_mellifera	0.0	180.0	511.0	105.0	223.0	113.0	164.0	415.0	102.0	399.0	82.0
+Bombus_terrestris	77.0	0.0	513.0	96.0	222.0	108.0	167.0	405.0	94.0	399.0	91.0
+Ceratina_calcarata	73.0	172.0	0.0	86.0	215.0	118.0	149.0	376.0	93.0	400.0	95.0
+Dufourea_novaeangliae	65.0	170.0	487.0	0.0	227.0	116.0	145.0	389.0	82.0	403.0	83.0
+Eufriesea_mexicana	84.0	183.0	502.0	109.0	0.0	115.0	180.0	410.0	106.0	399.0	91.0
+Habropoda_laboriosa	77.0	190.0	517.0	121.0	229.0	0.0	186.0	417.0	106.0	434.0	106.0
+Megachile_rotundata	82.0	174.0	484.0	104.0	244.0	124.0	0.0	392.0	89.0	422.0	101.0
+Megalopta_genalis	72.0	166.0	466.0	89.0	228.0	117.0	159.0	0.0	76.0	393.0	92.0
+Nomia_melanderi	67.0	182.0	488.0	89.0	229.0	130.0	152.0	403.0	0.0	394.0	83.0
+Osmia_bicornis	102.0	196.0	494.0	121.0	243.0	140.0	186.0	403.0	107.0	0.0	112.0
+Osmia_lignaria	94.0	194.0	510.0	119.0	241.0	133.0	178.0	414.0	106.0	460.0	0.0

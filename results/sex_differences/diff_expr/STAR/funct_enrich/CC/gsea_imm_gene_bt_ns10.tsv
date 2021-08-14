@@ -1,0 +1,23 @@
+GO.ID	Term	Annotated	Significant	Expected	weight01KS	classicKS	weight01KSpadj	classicKSpadj
+GO:0110165	cellular anatomical entity	134	64	65.14	0.036	0.666	0.6086666666666667	0.9768
+GO:1902494	catalytic complex	18	13	8.75	0.066	0.066	0.6086666666666667	0.1606
+GO:0005634	nucleus	35	21	17.01	0.083	0.025	0.6086666666666667	0.1606
+GO:0031981	nuclear lumen	11	8	5.35	0.111	0.111	0.6105	0.222
+GO:0005622	intracellular	67	35	32.57	0.408	0.073	1	0.1606
+GO:0070013	intracellular organelle lumen	12	9	5.83	0.422	0.061	1	0.1606
+GO:0043232	intracellular non-membrane-bounded organelle	12	6	5.83	0.513	0.513	1	0.8061428571428572
+GO:0043231	intracellular membrane-bounded organelle	44	24	21.39	0.663	0.044	1	0.1606
+GO:0032991	protein-containing complex	36	22	17.5	0.726	0.157	1	0.28783333333333333
+GO:0005615	extracellular space	11	4	5.35	0.870	0.870	1	1
+GO:0016020	membrane	61	26	29.65	0.874	0.927	1	1
+GO:0005576	extracellular region	14	4	6.81	0.915	0.834	1	1
+GO:0043227	membrane-bounded organelle	45	24	21.88	0.943	0.056	1	0.1606
+GO:0016021	integral component of membrane	21	9	10.21	0.998	0.998	1	1
+GO:0005737	cytoplasm	23	8	11.18	1.000	1.000	1	1
+GO:0043233	organelle lumen	12	9	5.83	1.000	0.061	1	0.1606
+GO:0031224	intrinsic component of membrane	21	9	10.21	1.000	0.998	1	1
+GO:0031974	membrane-enclosed lumen	12	9	5.83	1.000	0.061	1	0.1606
+GO:0005575	cellular_component	144	70	70	1.000	1.000	1	1
+GO:0043226	organelle	53	29	25.76	1.000	0.060	1	0.1606
+GO:0043228	non-membrane-bounded organelle	12	6	5.83	1.000	0.513	1	0.8061428571428572
+GO:0043229	intracellular organelle	52	29	25.28	1.000	0.049	1	0.1606

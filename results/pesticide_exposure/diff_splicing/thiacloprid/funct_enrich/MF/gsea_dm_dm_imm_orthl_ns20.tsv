@@ -1,0 +1,28 @@
+GO.ID	Term	Annotated	Significant	Expected	weight01KS	classicKS	weight01KSpadj	classicKSpadj
+GO:0016740	transferase activity	28	3	3.67	0.17	0.17	1	0.81
+GO:0032555	purine ribonucleotide binding	31	6	4.07	0.22	0.30	1	0.81
+GO:0035639	purine ribonucleoside triphosphate bindi...	31	6	4.07	0.22	0.30	1	0.81
+GO:0036094	small molecule binding	32	6	4.2	0.28	0.22	1	0.81
+GO:0019899	enzyme binding	21	3	2.75	0.29	0.29	1	0.81
+GO:0003676	nucleic acid binding	25	2	3.28	0.41	0.41	1	0.8668421052631579
+GO:0005515	protein binding	85	12	11.15	0.48	0.40	1	0.8668421052631579
+GO:0043168	anion binding	37	6	4.85	0.54	0.60	1	0.8668421052631579
+GO:0005524	ATP binding	21	3	2.75	0.59	0.59	1	0.8668421052631579
+GO:0140096	catalytic activity, acting on a protein	35	4	4.59	0.61	0.61	1	0.8668421052631579
+GO:0016787	hydrolase activity	31	5	4.07	0.66	0.66	1	0.8910000000000001
+GO:0097367	carbohydrate derivative binding	35	6	4.59	0.77	0.70	1	0.9
+GO:0003824	catalytic activity	64	8	8.39	0.80	0.82	1	0.93375
+GO:0046872	metal ion binding	30	3	3.93	0.83	0.83	1	0.93375
+GO:0098772	molecular function regulator	30	3	3.93	0.88	0.88	1	0.9504
+GO:1901363	heterocyclic compound binding	56	8	7.34	0.96	0.45	1	0.8668421052631579
+GO:0097159	organic cyclic compound binding	56	8	7.34	0.96	0.45	1	0.8668421052631579
+GO:0000166	nucleotide binding	31	6	4.07	1.00	0.30	1	0.81
+GO:0032553	ribonucleotide binding	31	6	4.07	1.00	0.30	1	0.81
+GO:0032559	adenyl ribonucleotide binding	21	3	2.75	1.00	0.59	1	0.8668421052631579
+GO:0005488	binding	108	16	14.16	1.00	0.26	1	0.81
+GO:0043167	ion binding	63	8	8.26	1.00	0.93	1	0.9657692307692309
+GO:0043169	cation binding	30	3	3.93	1.00	0.83	1	0.93375
+GO:0003674	molecular_function	122	16	16	1.00	1.00	1	1
+GO:0017076	purine nucleotide binding	31	6	4.07	1.00	0.30	1	0.81
+GO:0030554	adenyl nucleotide binding	21	3	2.75	1.00	0.59	1	0.8668421052631579
+GO:1901265	nucleoside phosphate binding	31	6	4.07	1.00	0.30	1	0.81

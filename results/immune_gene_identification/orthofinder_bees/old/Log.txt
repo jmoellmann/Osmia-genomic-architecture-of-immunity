@@ -1,0 +1,21 @@
+2021-06-23 15:56:03 : Started OrthoFinder version 2.5.2
+Command Line: /lustre/project/m2_jgu-funcpoll/phylogenetic_analysis/src/OrthoFinder/orthofinder -f /lustre/project/m2_jgu-funcpoll/phylogenetic_analysis/bee_proteomes/primary_transcripts -o /lustre/project/m2_jgu-funcpoll/phylogenetic_analysis/bee_proteomes/results
+
+WorkingDirectory_Base: /lustre/project/m2_jgu-funcpoll/phylogenetic_analysis/bee_proteomes/results/Results_Jun23/WorkingDirectory/
+
+Species used: 
+0: Apis_mellifera.faa
+1: Bombus_terrestris.faa
+2: Ceratina_calcarata.faa
+3: Dufourea_novaeangliae.faa
+4: Eufriesea_mexicana.faa
+5: Habropoda_laboriosa.faa
+6: Megachile_rotundata.faa
+7: Megalopta_genalis.faa
+8: Nomia_melanderi.faa
+9: Osmia_bicornis.faa
+10: Osmia_lignaria.faa
+
+FN_Orthogroups: /lustre/project/m2_jgu-funcpoll/phylogenetic_analysis/bee_proteomes/results/Results_Jun23/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: /lustre/project/m2_jgu-funcpoll/phylogenetic_analysis/bee_proteomes/results/Results_Jun23/WorkingDirectory/
+2021-06-23 16:36:19 : OrthoFinder run completed

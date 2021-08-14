@@ -1,0 +1,15 @@
+GO.ID	Term	Annotated	Significant	Expected	weight01KS	classicKS	weight01KSpadj	classicKSpadj
+GO:0005737	cytoplasm	29	5	4.72	0.062	0.20	0.868	0.84
+GO:0043229	intracellular organelle	20	3	3.26	0.270	0.63	1	0.9290909090909091
+GO:0016021	integral component of membrane	10	2	1.63	0.288	0.29	1	0.84
+GO:0005576	extracellular region	12	1	1.95	0.363	0.36	1	0.84
+GO:0016020	membrane	14	3	2.28	0.508	0.18	1	0.84
+GO:0005829	cytosol	14	3	2.28	0.680	0.68	1	0.9290909090909091
+GO:0043231	intracellular membrane-bounded organelle	19	2	3.09	0.815	0.73	1	0.9290909090909091
+GO:0005634	nucleus	10	1	1.63	0.850	0.85	1	0.9916666666666667
+GO:0005622	intracellular	32	6	5.21	1.000	0.31	1	0.84
+GO:0110165	cellular anatomical entity	43	7	7	1.000	1.00	1	1
+GO:0031224	intrinsic component of membrane	10	2	1.63	1.000	0.29	1	0.84
+GO:0005575	cellular_component	43	7	7	1.000	1.00	1	1
+GO:0043226	organelle	20	3	3.26	1.000	0.63	1	0.9290909090909091
+GO:0043227	membrane-bounded organelle	19	2	3.09	1.000	0.73	1	0.9290909090909091

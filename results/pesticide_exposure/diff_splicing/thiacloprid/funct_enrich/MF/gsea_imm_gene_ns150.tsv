@@ -1,0 +1,4 @@
+GO.ID	Term	Annotated	Significant	Expected	weight01KS	classicKS	weight01KSpadj	classicKSpadj
+GO:0005515	protein binding	157	29	27.67	0.30	0.30	0.66	0.8400000000000001
+GO:0005488	binding	195	36	34.36	0.44	0.56	0.66	0.8400000000000001
+GO:0003674	molecular_function	227	40	40	1.00	1.00	1	1

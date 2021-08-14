@@ -1,0 +1,15 @@
+
+[quant] fragment length distribution will be estimated from the data
+[index] k-mer length: 31
+[index] number of targets: 26,926
+[index] number of k-mers: 32,449,427
+[index] number of equivalence classes: 56,061
+[quant] running in paired-end mode
+[quant] will process pair 1: /lustre/project/m2_jgu-funcpoll/data/datasets/PRJNA285788/fastp-trimmed/female/SRR2895245_1_trimmed.fastq.gz
+                             /lustre/project/m2_jgu-funcpoll/data/datasets/PRJNA285788/fastp-trimmed/female/SRR2895245_2_trimmed.fastq.gz
+[quant] finding pseudoalignments for the reads ... done
+[quant] processed 132,638,963 reads, 115,881,711 reads pseudoaligned
+[quant] estimated average fragment length: 209.058
+[   em] quantifying the abundances ... done
+[   em] the Expectation-Maximization algorithm ran for 1,380 rounds
+

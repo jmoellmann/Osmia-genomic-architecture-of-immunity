@@ -1,0 +1,8 @@
+GO.ID	Term	Annotated	Significant	Expected	weight01KS	classicKS	weight01KSpadj	classicKSpadj
+GO:0008152	metabolic process	102	14	15.17	0.48	0.79	1	1
+GO:0071704	organic substance metabolic process	100	13	14.88	0.63	0.63	1	1
+GO:0050789	regulation of biological process	104	14	15.47	0.85	0.85	1	1
+GO:0002376	immune system process	101	14	15.02	0.91	0.91	1	1
+GO:0065007	biological regulation	105	14	15.62	0.97	0.97	1	1
+GO:0009987	cellular process	118	17	17.55	1.00	1.00	1	1
+GO:0008150	biological_process	121	18	18	1.00	1.00	1	1

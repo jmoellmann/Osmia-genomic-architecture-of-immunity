@@ -1,0 +1,95 @@
+GO.ID	Term	Annotated	Significant	Expected	weight01KS	classicKS	weight01KSpadj	classicKSpadj
+GO:0048523	negative regulation of cellular process	13	4	1.98	0.013	0.013	1	0.5013333333333333
+GO:0006508	proteolysis	13	4	1.98	0.030	0.030	1	0.705
+GO:0031323	regulation of cellular metabolic process	21	6	3.2	0.033	0.117	1	0.719304347826087
+GO:0080134	regulation of response to stress	13	2	1.98	0.044	0.660	1	1
+GO:0032268	regulation of cellular protein metabolic...	11	4	1.67	0.103	0.103	1	0.719304347826087
+GO:0012501	programmed cell death	10	3	1.52	0.138	0.138	1	0.719304347826087
+GO:0006996	organelle organization	11	2	1.67	0.148	0.148	1	0.719304347826087
+GO:0007165	signal transduction	16	3	2.43	0.153	0.260	1	0.8427586206896551
+GO:0009617	response to bacterium	12	1	1.83	0.160	0.871	1	1
+GO:0044267	cellular protein metabolic process	17	5	2.59	0.174	0.149	1	0.719304347826087
+GO:0043412	macromolecule modification	10	4	1.52	0.176	0.176	1	0.719304347826087
+GO:0051179	localization	17	4	2.59	0.187	0.205	1	0.7411538461538462
+GO:0048522	positive regulation of cellular process	16	4	2.43	0.200	0.496	1	0.9630877192982455
+GO:0043170	macromolecule metabolic process	32	7	4.87	0.200	0.074	1	0.719304347826087
+GO:0044260	cellular macromolecule metabolic process	22	5	3.35	0.238	0.165	1	0.719304347826087
+GO:0051716	cellular response to stimulus	23	4	3.5	0.273	0.119	1	0.719304347826087
+GO:0051171	regulation of nitrogen compound metaboli...	15	5	2.28	0.316	0.061	1	0.719304347826087
+GO:0080090	regulation of primary metabolic process	15	5	2.28	0.316	0.061	1	0.719304347826087
+GO:0023051	regulation of signaling	11	3	1.67	0.353	0.353	1	0.9630877192982455
+GO:0010646	regulation of cell communication	11	3	1.67	0.353	0.353	1	0.9630877192982455
+GO:0044249	cellular biosynthetic process	13	2	1.98	0.432	0.432	1	0.9630877192982455
+GO:1901576	organic substance biosynthetic process	13	2	1.98	0.432	0.432	1	0.9630877192982455
+GO:0000003	reproduction	12	2	1.83	0.433	0.716	1	1
+GO:0065008	regulation of biological quality	12	3	1.83	0.438	0.438	1	0.9630877192982455
+GO:0009605	response to external stimulus	24	4	3.65	0.438	0.888	1	1
+GO:0033036	macromolecule localization	11	3	1.67	0.451	0.451	1	0.9630877192982455
+GO:0007154	cell communication	20	5	3.04	0.453	0.194	1	0.72944
+GO:0006950	response to stress	27	4	4.11	0.459	0.802	1	1
+GO:0032501	multicellular organismal process	22	5	3.35	0.460	0.439	1	0.9630877192982455
+GO:0007166	cell surface receptor signaling pathway	10	2	1.52	0.462	0.462	1	0.9630877192982455
+GO:0002252	immune effector process	12	1	1.83	0.471	0.471	1	0.9630877192982455
+GO:0008152	metabolic process	40	7	6.09	0.472	0.176	1	0.719304347826087
+GO:0044248	cellular catabolic process	14	4	2.13	0.488	0.488	1	0.9630877192982455
+GO:0006810	transport	13	3	1.98	0.497	0.497	1	0.9630877192982455
+GO:0010468	regulation of gene expression	11	2	1.67	0.539	0.539	1	0.9630877192982455
+GO:1901564	organonitrogen compound metabolic proces...	25	7	3.8	0.550	0.016	1	0.5013333333333333
+GO:0050794	regulation of cellular process	28	7	4.26	0.557	0.167	1	0.719304347826087
+GO:0098542	defense response to other organism	18	2	2.74	0.571	0.991	1	1
+GO:1901575	organic substance catabolic process	10	3	1.52	0.572	0.572	1	0.9630877192982455
+GO:0044085	cellular component biogenesis	10	2	1.52	0.572	0.572	1	0.9630877192982455
+GO:0010605	negative regulation of macromolecule met...	10	2	1.52	0.572	0.572	1	0.9630877192982455
+GO:0048468	cell development	11	3	1.67	0.584	0.584	1	0.9630877192982455
+GO:0009653	anatomical structure morphogenesis	12	3	1.83	0.629	0.629	1	1
+GO:0032504	multicellular organism reproduction	10	2	1.52	0.666	0.666	1	1
+GO:0002682	regulation of immune system process	15	1	2.28	0.697	0.722	1	1
+GO:0034641	cellular nitrogen compound metabolic pro...	13	2	1.98	0.744	0.744	1	1
+GO:0045087	innate immune response	13	1	1.98	0.814	0.814	1	1
+GO:0031347	regulation of defense response	11	0	1.67	0.835	0.835	1	1
+GO:0009987	cellular process	44	7	6.7	0.846	0.527	1	0.9630877192982455
+GO:0031325	positive regulation of cellular metaboli...	11	2	1.67	0.857	0.857	1	1
+GO:0032101	regulation of response to external stimu...	12	0	1.83	0.857	0.857	1	1
+GO:0048584	positive regulation of response to stimu...	12	2	1.83	0.857	0.857	1	1
+GO:0002831	regulation of response to biotic stimulu...	12	0	1.83	0.857	0.857	1	1
+GO:0042742	defense response to bacterium	11	0	1.67	0.884	0.884	1	1
+GO:0007275	multicellular organism development	17	3	2.59	0.892	0.892	1	1
+GO:0050776	regulation of immune response	11	0	1.67	0.897	0.897	1	1
+GO:0008219	cell death	11	3	1.67	0.944	0.295	1	0.9243333333333332
+GO:0006955	immune response	15	1	2.28	0.968	0.924	1	1
+GO:0010467	gene expression	14	2	2.13	0.971	0.829	1	1
+GO:0016043	cellular component organization	14	2	2.13	0.985	0.488	1	0.9630877192982455
+GO:0051707	response to other organism	19	2	2.89	0.989	0.990	1	1
+GO:0048856	anatomical structure development	21	4	3.2	0.994	0.893	1	1
+GO:0008150	biological_process	46	7	7	1.000	1.000	1	1
+GO:0048869	cellular developmental process	11	3	1.67	1.000	0.584	1	0.9630877192982455
+GO:0032502	developmental process	21	4	3.2	1.000	0.893	1	1
+GO:0030154	cell differentiation	11	3	1.67	1.000	0.584	1	0.9630877192982455
+GO:0006952	defense response	18	2	2.74	1.000	0.991	1	1
+GO:0048518	positive regulation of biological proces...	18	4	2.74	1.000	0.608	1	0.9853793103448275
+GO:0048519	negative regulation of biological proces...	17	4	2.59	1.000	0.102	1	0.719304347826087
+GO:0019222	regulation of metabolic process	23	6	3.5	1.000	0.119	1	0.719304347826087
+GO:0006807	nitrogen compound metabolic process	31	7	4.72	1.000	0.050	1	0.719304347826087
+GO:0051246	regulation of protein metabolic process	11	4	1.67	1.000	0.103	1	0.719304347826087
+GO:0002376	immune system process	19	2	2.89	1.000	0.816	1	1
+GO:0060255	regulation of macromolecule metabolic pr...	17	5	2.59	1.000	0.130	1	0.719304347826087
+GO:0009056	catabolic process	15	4	2.28	1.000	0.558	1	0.9630877192982455
+GO:0009058	biosynthetic process	13	2	1.98	1.000	0.432	1	0.9630877192982455
+GO:0071704	organic substance metabolic process	35	7	5.33	1.000	0.191	1	0.72944
+GO:0019538	protein metabolic process	23	7	3.5	1.000	0.013	1	0.5013333333333333
+GO:0044237	cellular metabolic process	31	6	4.72	1.000	0.371	1	0.9630877192982455
+GO:0044238	primary metabolic process	32	7	4.87	1.000	0.100	1	0.719304347826087
+GO:0043207	response to external biotic stimulus	19	2	2.89	1.000	0.990	1	1
+GO:0051234	establishment of localization	13	3	1.98	1.000	0.497	1	0.9630877192982455
+GO:0023052	signaling	18	4	2.74	1.000	0.254	1	0.8427586206896551
+GO:0048583	regulation of response to stimulus	17	2	2.59	1.000	0.938	1	1
+GO:0050789	regulation of biological process	31	7	4.72	1.000	0.260	1	0.8427586206896551
+GO:1901360	organic cyclic compound metabolic proces...	13	1	1.98	1.000	1.000	1	1
+GO:0071840	cellular component organization or bioge...	15	2	2.28	1.000	0.746	1	1
+GO:0044419	interspecies interaction between organis...	19	2	2.89	1.000	0.990	1	1
+GO:0009607	response to biotic stimulus	19	2	2.89	1.000	0.990	1	1
+GO:0050896	response to stimulus	31	4	4.72	1.000	0.813	1	1
+GO:0009892	negative regulation of metabolic process	10	2	1.52	1.000	0.572	1	0.9630877192982455
+GO:0009893	positive regulation of metabolic process	11	2	1.67	1.000	0.857	1	1
+GO:0006725	cellular aromatic compound metabolic pro...	12	1	1.83	1.000	1.000	1	1
+GO:0065007	biological regulation	34	7	5.17	1.000	0.375	1	0.9630877192982455

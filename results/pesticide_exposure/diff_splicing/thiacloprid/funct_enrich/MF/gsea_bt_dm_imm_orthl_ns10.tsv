@@ -1,0 +1,38 @@
+GO.ID	Term	Annotated	Significant	Expected	weight01KS	classicKS	weight01KSpadj	classicKSpadj
+GO:0035639	purine ribonucleoside triphosphate bindi...	26	6	3.98	0.20	0.138	1	0.6166666666666667
+GO:0032555	purine ribonucleotide binding	27	6	4.13	0.20	0.238	1	0.6166666666666667
+GO:0017111	nucleoside-triphosphatase activity	11	3	1.68	0.25	0.250	1	0.6166666666666667
+GO:0016740	transferase activity	21	2	3.21	0.25	0.165	1	0.6166666666666667
+GO:0036094	small molecule binding	28	6	4.29	0.28	0.180	1	0.6166666666666667
+GO:0140110	transcription regulator activity	13	3	1.99	0.32	0.453	1	0.6916153846153846
+GO:0005524	ATP binding	17	3	2.6	0.34	0.337	1	0.6916153846153846
+GO:0004672	protein kinase activity	15	2	2.3	0.42	0.420	1	0.6916153846153846
+GO:0005515	protein binding	38	6	5.82	0.49	0.486	1	0.6916153846153846
+GO:0140096	catalytic activity, acting on a protein	27	3	4.13	0.60	0.620	1	0.7831666666666667
+GO:0003700	DNA-binding transcription factor activit...	10	2	1.53	0.63	0.635	1	0.7831666666666667
+GO:0003676	nucleic acid binding	17	1	2.6	0.68	0.819	1	0.9182727272727271
+GO:0098772	molecular function regulator	17	3	2.6	0.77	0.432	1	0.6916153846153846
+GO:0003824	catalytic activity	48	6	7.35	0.79	0.663	1	0.7913225806451614
+GO:0043168	anion binding	28	6	4.29	0.84	0.180	1	0.6166666666666667
+GO:0003677	DNA binding	12	1	1.84	0.89	0.887	1	0.9652647058823529
+GO:0097159	organic cyclic compound binding	45	7	6.89	0.98	0.480	1	0.6916153846153846
+GO:1901363	heterocyclic compound binding	45	7	6.89	0.98	0.480	1	0.6916153846153846
+GO:0046872	metal ion binding	12	1	1.84	0.98	0.977	1	1
+GO:0016787	hydrolase activity	22	4	3.37	0.98	0.737	1	0.85215625
+GO:0032559	adenyl ribonucleotide binding	18	3	2.76	1.00	0.529	1	0.6990357142857143
+GO:0016462	pyrophosphatase activity	11	3	1.68	1.00	0.250	1	0.6166666666666667
+GO:0017076	purine nucleotide binding	27	6	4.13	1.00	0.238	1	0.6166666666666667
+GO:0030554	adenyl nucleotide binding	18	3	2.76	1.00	0.529	1	0.6990357142857143
+GO:0000166	nucleotide binding	27	6	4.13	1.00	0.238	1	0.6166666666666667
+GO:0097367	carbohydrate derivative binding	27	6	4.13	1.00	0.238	1	0.6166666666666667
+GO:0005488	binding	77	13	11.79	1.00	0.044	1	0.6166666666666667
+GO:0016772	transferase activity, transferring phosp...	15	2	2.3	1.00	0.420	1	0.6916153846153846
+GO:0016773	phosphotransferase activity, alcohol gro...	15	2	2.3	1.00	0.420	1	0.6916153846153846
+GO:0003674	molecular_function	98	15	15	1.00	1.000	1	1
+GO:0016301	kinase activity	15	2	2.3	1.00	0.420	1	0.6916153846153846
+GO:0016817	hydrolase activity, acting on acid anhyd...	11	3	1.68	1.00	0.250	1	0.6166666666666667
+GO:0043167	ion binding	39	6	5.97	1.00	0.436	1	0.6916153846153846
+GO:0016818	hydrolase activity, acting on acid anhyd...	11	3	1.68	1.00	0.250	1	0.6166666666666667
+GO:0043169	cation binding	12	1	1.84	1.00	0.977	1	1
+GO:0032553	ribonucleotide binding	27	6	4.13	1.00	0.238	1	0.6166666666666667
+GO:1901265	nucleoside phosphate binding	27	6	4.13	1.00	0.238	1	0.6166666666666667

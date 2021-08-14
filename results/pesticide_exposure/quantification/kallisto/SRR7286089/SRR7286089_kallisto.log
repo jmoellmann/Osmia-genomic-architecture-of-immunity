@@ -1,0 +1,16 @@
+srun: Job step's --cpus-per-task value exceeds that of job (5 > 3). Job step may never run.
+
+[quant] fragment length distribution will be estimated from the data
+[index] k-mer length: 31
+[index] number of targets: 26,926
+[index] number of k-mers: 32,449,427
+[index] number of equivalence classes: 56,061
+[quant] running in paired-end mode
+[quant] will process pair 1: /lustre/project/m2_jgu-funcpoll/data/datasets/PRJNA285788/pesticide_exposure/fastp-trimmed/thiacloprid/SRR7286089_1_trimmed.fastq.gz
+                             /lustre/project/m2_jgu-funcpoll/data/datasets/PRJNA285788/pesticide_exposure/fastp-trimmed/thiacloprid/SRR7286089_2_trimmed.fastq.gz
+[quant] finding pseudoalignments for the reads ... done
+[quant] processed 10,179,770 reads, 9,012,724 reads pseudoaligned
+[quant] estimated average fragment length: 230.49
+[   em] quantifying the abundances ... done
+[   em] the Expectation-Maximization algorithm ran for 1,188 rounds
+

@@ -1,0 +1,146 @@
+GO.ID	Term	Annotated	Significant	Expected	weight01KS	classicKS	weight01KSpadj	classicKSpadj
+GO:0016021	integral component of membrane	499	159	114.51	1.5e-06	5.5e-08	1.45e-4	3.3350000000000003e-6
+GO:0034703	cation channel complex	12	10	2.75	2.0e-06	2.0e-06	1.45e-4	4.142857142857143e-5
+GO:0005886	plasma membrane	80	40	18.36	2.2e-05	8.8e-08	0.0010633333333333334	3.3350000000000003e-6
+GO:0098797	plasma membrane protein complex	34	15	7.8	0.00068	0.00068	0.024650000000000002	0.00986
+GO:0005783	endoplasmic reticulum	25	10	5.74	0.00097	0.00097	0.028130000000000002	0.011720833333333335
+GO:0005887	integral component of plasma membrane	26	14	5.97	0.00153	0.00153	0.036975	0.017065384615384614
+GO:0016020	membrane	974	287	223.52	0.00863	9.2e-08	0.17876428571428574	3.3350000000000003e-6
+GO:0005789	endoplasmic reticulum membrane	32	10	7.34	0.02610	0.01360	0.4462375	0.13146666666666665
+GO:0015629	actin cytoskeleton	32	8	7.34	0.02798	0.02569	0.4462375	0.232815625
+GO:0098796	membrane protein complex	121	36	27.77	0.03478	0.04305	0.4462375	0.28373863636363633
+GO:0000502	proteasome complex	18	8	4.13	0.03680	0.03765	0.4462375	0.25996428571428576
+GO:0005773	vacuole	10	4	2.29	0.03693	0.03693	0.4462375	0.25996428571428576
+GO:0019866	organelle inner membrane	35	6	8.03	0.05230	0.58149	0.579275	1
+GO:0030054	cell junction	16	7	3.67	0.05593	0.03291	0.579275	0.25115526315789477
+GO:0045202	synapse	12	6	2.75	0.06584	0.06584	0.6364533333333332	0.381872
+GO:0099512	supramolecular fiber	17	3	3.9	0.09517	0.69625	0.8624781250000001	1
+GO:0000139	Golgi membrane	12	4	2.75	0.11166	0.11166	0.9093789473684211	0.5764
+GO:0005615	extracellular space	13	4	2.98	0.11528	0.11528	0.9093789473684211	0.5764
+GO:0005635	nuclear envelope	15	3	3.44	0.11916	0.36270	0.9093789473684211	1
+GO:0005576	extracellular region	86	27	19.74	0.13265	0.07648	0.9603833333333334	0.42652307692307695
+GO:1990234	transferase complex	102	17	23.41	0.13909	0.46888	0.9603833333333334	1
+GO:0005839	proteasome core complex	12	4	2.75	0.16464	0.16464	1	0.79576
+GO:0015630	microtubule cytoskeleton	55	6	12.62	0.17019	0.77189	1	1
+GO:0031226	intrinsic component of plasma membrane	28	15	6.43	0.17940	0.00088	1	0.011600000000000001
+GO:0030176	integral component of endoplasmic reticulum membrane	10	2	2.29	0.18558	0.18558	1	0.840909375
+GO:0005737	cytoplasm	400	85	91.79	0.18998	0.40610	1	1
+GO:0030118	clathrin coat	13	3	2.98	0.19937	0.73483	1	1
+GO:0005743	mitochondrial inner membrane	33	4	7.57	0.22991	0.69669	1	1
+GO:0008180	COP9 signalosome	10	0	2.29	0.25064	0.25064	1	1
+GO:1902494	catalytic complex	184	37	42.23	0.26725	0.10360	1	0.5563703703703703
+GO:1905369	endopeptidase complex	20	8	4.59	0.27078	0.02738	1	0.23353529411764706
+GO:0005681	spliceosomal complex	13	3	2.98	0.27592	0.27592	1	1
+GO:0000790	nuclear chromatin	21	4	4.82	0.29332	0.42094	1	1
+GO:0000793	condensed chromosome	10	2	2.29	0.29808	0.29808	1	1
+GO:0031461	cullin-RING ubiquitin ligase complex	17	0	3.9	0.31004	0.31004	1	1
+GO:0044815	DNA packaging complex	28	3	6.43	0.32557	0.80616	1	1
+GO:0032991	protein-containing complex	640	109	146.87	0.33917	0.20125	1	0.884280303030303
+GO:0016459	myosin complex	13	1	2.98	0.36777	0.36777	1	1
+GO:0071944	cell periphery	89	41	20.42	0.37117	9.4e-07	1	2.726e-5
+GO:0035097	histone methyltransferase complex	10	3	2.29	0.38019	0.38019	1	1
+GO:0012505	endomembrane system	132	35	30.29	0.38451	0.03270	1	0.25115526315789477
+GO:0005815	microtubule organizing center	19	1	4.36	0.38875	0.38875	1	1
+GO:0099023	vesicle tethering complex	17	2	3.9	0.40767	0.40767	1	1
+GO:0030119	AP-type membrane coat adaptor complex	12	2	2.75	0.40879	0.70089	1	1
+GO:0031301	integral component of organelle membrane	18	5	4.13	0.41034	0.36588	1	1
+GO:0005643	nuclear pore	12	1	2.75	0.44478	0.44478	1	1
+GO:0034708	methyltransferase complex	15	4	3.44	0.46987	0.38789	1	1
+GO:0031248	protein acetyltransferase complex	23	6	5.28	0.47558	0.48723	1	1
+GO:0042175	nuclear outer membrane-endoplasmic reticulum membrane network	33	10	7.57	0.48455	0.00851	1	0.08813928571428573
+GO:0031090	organelle membrane	128	28	29.37	0.49097	0.38955	1	1
+GO:0005856	cytoskeleton	106	19	24.33	0.50391	0.49847	1	1
+GO:1990204	oxidoreductase complex	13	1	2.98	0.50488	0.50488	1	1
+GO:0005730	nucleolus	10	1	2.29	0.50690	0.50690	1	1
+GO:0005694	chromosome	82	12	18.82	0.50862	0.75014	1	1
+GO:0005667	transcription regulator complex	35	2	8.03	0.51186	0.94715	1	1
+GO:0098590	plasma membrane region	13	4	2.98	0.51477	0.51477	1	1
+GO:0000123	histone acetyltransferase complex	21	5	4.82	0.51561	0.51561	1	1
+GO:0005739	mitochondrion	97	13	22.26	0.51940	0.97757	1	1
+GO:0005875	microtubule associated complex	23	2	5.28	0.52809	0.89938	1	1
+GO:0061695	transferase complex, transferring phosphorus-containing groups	32	4	7.34	0.55519	0.50789	1	1
+GO:0005654	nucleoplasm	86	16	19.74	0.57412	0.32845	1	1
+GO:0030880	RNA polymerase complex	23	2	5.28	0.58884	0.61580	1	1
+GO:0070603	SWI/SNF superfamily-type complex	17	3	3.9	0.59433	0.59433	1	1
+GO:0099513	polymeric cytoskeletal fiber	15	2	3.44	0.60289	0.79520	1	1
+GO:0098588	bounding membrane of organelle	61	14	14	0.61932	0.67164	1	1
+GO:1905368	peptidase complex	29	10	6.66	0.62395	0.05228	1	0.3295913043478261
+GO:0055029	nuclear DNA-directed RNA polymerase complex	22	2	5.05	0.62522	0.62906	1	1
+GO:0043229	intracellular organelle	884	145	202.86	0.62578	0.98829	1	1
+GO:0031982	vesicle	41	8	9.41	0.63064	0.91335	1	1
+GO:0005759	mitochondrial matrix	12	1	2.75	0.65837	0.76464	1	1
+GO:0005741	mitochondrial outer membrane	11	1	2.52	0.67200	0.67200	1	1
+GO:0016591	RNA polymerase II, holoenzyme	18	1	4.13	0.67759	0.67759	1	1
+GO:0030136	clathrin-coated vesicle	10	3	2.29	0.69362	0.69362	1	1
+GO:1902495	transmembrane transporter complex	19	11	4.36	0.70869	9.7e-05	1	0.0015627777777777777
+GO:0005929	cilium	15	2	3.44	0.70931	0.70931	1	1
+GO:0030120	vesicle coat	16	4	3.67	0.71676	0.71676	1	1
+GO:0016592	mediator complex	21	3	4.82	0.73291	0.73291	1	1
+GO:0005794	Golgi apparatus	42	9	9.64	0.73543	0.68859	1	1
+GO:0015935	small ribosomal subunit	14	0	3.21	0.73718	0.73718	1	1
+GO:0030133	transport vesicle	11	3	2.52	0.74533	0.74533	1	1
+GO:0099080	supramolecular complex	22	4	5.05	0.74533	0.73039	1	1
+GO:0005768	endosome	15	2	3.44	0.75473	0.75473	1	1
+GO:0005622	intracellular	1132	195	259.78	0.75643	0.96028	1	1
+GO:0030660	Golgi-associated vesicle membrane	12	3	2.75	0.77936	0.77936	1	1
+GO:1990904	ribonucleoprotein complex	66	4	15.15	0.78501	0.78226	1	1
+GO:0098798	mitochondrial protein complex	29	2	6.66	0.78569	0.91029	1	1
+GO:0098805	whole membrane	45	8	10.33	0.79795	0.91273	1	1
+GO:0005761	mitochondrial ribosome	10	0	2.29	0.79978	0.79978	1	1
+GO:0031410	cytoplasmic vesicle	39	8	8.95	0.79998	0.88030	1	1
+GO:0120025	plasma membrane bounded cell projection	17	2	3.9	0.80201	0.75321	1	1
+GO:0005874	microtubule	14	2	3.21	0.84402	0.84402	1	1
+GO:0000786	nucleosome	25	3	5.74	0.84678	0.84678	1	1
+GO:0031966	mitochondrial membrane	47	5	10.79	0.85688	0.86235	1	1
+GO:0032993	protein-DNA complex	27	3	6.2	0.86414	0.81967	1	1
+GO:0033178	proton-transporting two-sector ATPase complex, catalytic domain	13	1	2.98	0.89570	0.89570	1	1
+GO:0000151	ubiquitin ligase complex	24	1	5.51	0.89581	0.65026	1	1
+GO:0019867	outer membrane	12	1	2.75	0.89779	0.62729	1	1
+GO:0005634	nucleus	425	69	97.53	0.90257	0.85569	1	1
+GO:0033176	proton-transporting V-type ATPase complex	12	2	2.75	0.90337	0.90337	1	1
+GO:0005852	eukaryotic translation initiation factor 3 complex	13	0	2.98	0.90842	0.90842	1	1
+GO:0030131	clathrin adaptor complex	10	1	2.29	0.91070	0.91070	1	1
+GO:0098800	inner mitochondrial membrane protein complex	18	1	4.13	0.94875	0.94875	1	1
+GO:0043231	intracellular membrane-bounded organelle	611	107	140.22	0.95269	0.88714	1	1
+GO:0005740	mitochondrial envelope	54	6	12.39	0.97442	0.99997	1	1
+GO:0030286	dynein complex	12	1	2.75	0.97659	0.97659	1	1
+GO:0070013	intracellular organelle lumen	135	22	30.98	0.97725	0.51377	1	1
+GO:0000228	nuclear chromosome	31	5	7.11	0.97987	0.72106	1	1
+GO:0005829	cytosol	20	2	4.59	0.99282	0.99282	1	1
+GO:0015934	large ribosomal subunit	12	0	2.75	0.99539	0.99539	1	1
+GO:0005840	ribosome	108	9	24.78	0.99754	0.99669	1	1
+GO:0030659	cytoplasmic vesicle membrane	17	4	3.9	0.99780	0.77186	1	1
+GO:0090575	RNA polymerase II transcription regulator complex	19	0	4.36	0.99929	0.99929	1	1
+GO:0016469	proton-transporting two-sector ATPase complex	22	3	5.05	0.99993	0.98020	1	1
+GO:0031981	nuclear lumen	117	20	26.85	1.00000	0.39374	1	1
+GO:0031300	intrinsic component of organelle membrane	18	5	4.13	1.00000	0.36588	1	1
+GO:0097708	intracellular vesicle	39	8	8.95	1.00000	0.88030	1	1
+GO:0044391	ribosomal subunit	26	0	5.97	1.00000	0.98997	1	1
+GO:0031974	membrane-enclosed lumen	135	22	30.98	1.00000	0.51377	1	1
+GO:0031975	envelope	69	9	15.83	1.00000	0.95421	1	1
+GO:0030135	coated vesicle	18	5	4.13	1.00000	0.63051	1	1
+GO:0030662	coated vesicle membrane	16	4	3.67	1.00000	0.71676	1	1
+GO:0000313	organellar ribosome	10	0	2.29	1.00000	0.79978	1	1
+GO:0043226	organelle	912	152	209.29	1.00000	0.98891	1	1
+GO:0043227	membrane-bounded organelle	659	119	151.23	1.00000	0.79073	1	1
+GO:0000428	DNA-directed RNA polymerase complex	22	2	5.05	1.00000	0.62906	1	1
+GO:0043228	non-membrane-bounded organelle	305	41	69.99	1.00000	0.99935	1	1
+GO:1904949	ATPase complex	17	3	3.9	1.00000	0.59433	1	1
+GO:0042995	cell projection	17	2	3.9	1.00000	0.75321	1	1
+GO:0099081	supramolecular polymer	17	3	3.9	1.00000	0.69625	1	1
+GO:0012506	vesicle membrane	17	4	3.9	1.00000	0.77186	1	1
+GO:0005798	Golgi-associated vesicle	12	3	2.75	1.00000	0.77936	1	1
+GO:0031967	organelle envelope	69	9	15.83	1.00000	0.95421	1	1
+GO:0031968	organelle outer membrane	11	1	2.52	1.00000	0.67200	1	1
+GO:0110165	cellular anatomical entity	1976	464	453.46	1.00000	0.06063	1	0.36630625000000006
+GO:0000785	chromatin	46	7	10.56	1.00000	0.81413	1	1
+GO:0034702	ion channel complex	12	10	2.75	1.00000	2.0e-06	1	4.142857142857143e-5
+GO:1902493	acetyltransferase complex	23	6	5.28	1.00000	0.48723	1	1
+GO:0043232	intracellular non-membrane-bounded organelle	305	41	69.99	1.00000	0.99935	1	1
+GO:0043233	organelle lumen	135	22	30.98	1.00000	0.51377	1	1
+GO:0031224	intrinsic component of membrane	501	160	114.97	1.00000	3.3e-08	1	3.3350000000000003e-6
+GO:0031227	intrinsic component of endoplasmic reticulum membrane	10	2	2.29	1.00000	0.18558	1	0.840909375
+GO:0005575	cellular_component	2096	481	481	1.00000	1.00000	1	1
+GO:1990351	transporter complex	19	11	4.36	1.00000	9.7e-05	1	0.0015627777777777777
+GO:0048475	coated membrane	23	6	5.28	1.00000	0.50875	1	1
+GO:0030117	membrane coat	23	6	5.28	1.00000	0.50875	1	1

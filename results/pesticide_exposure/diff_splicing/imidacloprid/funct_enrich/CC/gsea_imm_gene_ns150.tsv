@@ -1,0 +1,4 @@
+GO.ID	Term	Annotated	Significant	Expected	weight01KS	classicKS	weight01KSpadj	classicKSpadj
+GO:0005622	intracellular	175	38	33.41	0.0046	0.0046	0.0138	0.0138
+GO:0110165	cellular anatomical entity	216	42	41.24	0.6675	0.6675	1	1
+GO:0005575	cellular_component	220	42	42	1.0000	1.0000	1	1

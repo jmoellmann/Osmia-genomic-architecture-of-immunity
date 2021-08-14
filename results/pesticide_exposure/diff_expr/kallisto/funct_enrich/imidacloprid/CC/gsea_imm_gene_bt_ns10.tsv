@@ -1,0 +1,19 @@
+GO.ID	Term	Annotated	Significant	Expected	weight01KS	classicKS	weight01KSpadj	classicKSpadj
+GO:1902494	catalytic complex	16	4	2.17	0.033	0.033	0.432	0.29700000000000004
+GO:0016020	membrane	55	10	7.44	0.048	0.007	0.432	0.126
+GO:0016021	integral component of membrane	19	4	2.57	0.090	0.090	0.54	0.324
+GO:0005615	extracellular space	10	1	1.35	0.358	0.358	1	0.9205714285714286
+GO:0032991	protein-containing complex	32	6	4.33	0.495	0.062	1	0.324
+GO:0005622	intracellular	61	7	8.26	0.500	0.822	1	1
+GO:0043231	intracellular membrane-bounded organelle	39	6	5.28	0.550	0.735	1	1
+GO:0005576	extracellular region	13	1	1.76	0.573	0.254	1	0.762
+GO:0005634	nucleus	34	5	4.6	0.582	0.582	1	1
+GO:0005737	cytoplasm	19	3	2.57	0.655	0.655	1	1
+GO:0043227	membrane-bounded organelle	40	6	5.41	0.706	0.769	1	1
+GO:0043232	intracellular non-membrane-bounded organelle	10	1	1.35	0.966	0.966	1	1
+GO:0110165	cellular anatomical entity	124	17	16.78	1.000	0.640	1	1
+GO:0031224	intrinsic component of membrane	19	4	2.57	1.000	0.090	1	0.324
+GO:0005575	cellular_component	133	18	18	1.000	1.000	1	1
+GO:0043226	organelle	46	6	6.23	1.000	0.941	1	1
+GO:0043228	non-membrane-bounded organelle	10	1	1.35	1.000	0.966	1	1
+GO:0043229	intracellular organelle	45	6	6.09	1.000	0.960	1	1

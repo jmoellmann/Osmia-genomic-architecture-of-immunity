@@ -1,0 +1,42 @@
+InterproID,InterproDescription,Bt_GeneID
+IPR009110,"Nuclear receptor coactivator, interlocking",LOC100650829
+IPR014744,"Nuclear receptor coactivator, CREB-bp-like, interlocking",LOC100650829
+IPR000357,HEAT repeat,LOC100650400
+IPR016201,PSI domain,LOC100648256
+IPR038980,"Serine/threonine-protein kinase ATM, plant",LOC100645615
+IPR018039,"Intermediate filament protein, conserved site",LOC100648485
+IPR021183,"N-terminal acetyltransferase A, auxiliary subunit",LOC100648561
+IPR032067,"FOXO protein, transactivation domain",LOC100643217
+IPR040622,"Integrin beta, epidermal growth factor-like domain 1",LOC100646455
+IPR037151,Alpha-ketoglutarate-dependent dioxygenase AlkB-like superfamily,LOC100651027
+IPR001824,"Tyrosine-protein kinase, receptor class III, conserved site",LOC100646978
+IPR015116,Cdc42 binding domain-like,LOC100647202
+IPR032065,"E3 ubiquitin-protein ligase RNF31, UBA-like domain",LOC100647202
+IPR037085,Cdc42 binding domain-like superfamily,LOC100647202
+IPR039808,Cadherin,LOC100644697
+IPR040839,Macroglobulin domain MG4,LOC100647494
+IPR000953,Chromo/chromo shadow domain,LOC100642372
+IPR028399,CLIP-associating protein 1,LOC100648690
+IPR028473,Eyes absent homologue 2,LOC100649314
+IPR028479,Eyes absent homologue 3,LOC100649314
+IPR001315,CARD domain,LOC100652135
+IPR027653,"Formin, protein diaphanous homologue 1",LOC100642832
+IPR030100,SWI/SNF complex subunit BRG1,LOC100646868
+IPR001440,Tetratricopeptide repeat 1,LOC100649226
+IPR021158,"Peptidase M10A, cysteine switch, zinc binding site",LOC100643535
+IPR035437,"SNase-like, OB-fold superfamily",LOC100647120
+IPR030087,SWI/SNF complex subunit SMARCC1,LOC100647553
+IPR001067,Nuclear translocator,LOC100650880
+IPR017982,"Defensin, insect",Def
+IPR040622,"Integrin beta, epidermal growth factor-like domain 1",LOC100647633
+IPR005829,"Sugar transporter, conserved site",LOC100648223
+IPR001315,CARD domain,LOC100651239
+IPR024977,"Anaphase-promoting complex subunit 4, WD40 domain",LOC100651239
+IPR041452,APAF-1 helical domain,LOC100651239
+IPR001331,"Guanine-nucleotide dissociation stimulator, CDC24, conserved site",LOC100648762
+IPR000301,Tetraspanin,LOC100649060
+IPR011641,Tyrosine-protein kinase ephrin type A/B receptor-like,LOC100645846
+IPR003595,"Protein-tyrosine phosphatase, catalytic",LOC100643227
+IPR028941,WHIM2 domain,LOC100646137
+IPR006935,"Helicase/UvrB, N-terminal",LOC100650316
+IPR015415,"Vps4 oligomerisation, C-terminal",LOC100651717

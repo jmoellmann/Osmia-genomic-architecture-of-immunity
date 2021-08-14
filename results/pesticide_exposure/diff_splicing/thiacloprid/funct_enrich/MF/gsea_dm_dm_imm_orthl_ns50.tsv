@@ -1,0 +1,8 @@
+GO.ID	Term	Annotated	Significant	Expected	weight01KS	classicKS	weight01KSpadj	classicKSpadj
+GO:0005515	protein binding	85	12	11.15	0.40	0.40	1	0.7875
+GO:0097159	organic cyclic compound binding	56	8	7.34	0.45	0.45	1	0.7875
+GO:1901363	heterocyclic compound binding	56	8	7.34	0.45	0.45	1	0.7875
+GO:0003824	catalytic activity	64	8	8.39	0.82	0.82	1	1
+GO:0043167	ion binding	63	8	8.26	0.93	0.93	1	1
+GO:0003674	molecular_function	122	16	16	1.00	1.00	1	1
+GO:0005488	binding	108	16	14.16	1.00	0.26	1	0.7875

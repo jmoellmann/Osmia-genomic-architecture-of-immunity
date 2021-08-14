@@ -1,0 +1,10 @@
+Genes: 11799 
+Immune Genes: 541 
+DSGs: 142 
+Immune DSGs: 6 
+------------------------------------------------- 
+Share of immune genes diff. spliced: 1.11%
+Share of all genes diff. spliced.: 1.2%
+------------------------------------------------- 
+
+Fisher-test p-value: 1

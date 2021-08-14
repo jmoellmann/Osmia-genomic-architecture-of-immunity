@@ -1,0 +1,10 @@
+Genes: 11799 
+Immune Genes: 520 
+DEGs: 4128 
+Immune DEGs: 222 
+------------------------------------------------- 
+Share of immune genes diff. expr.: 42.69%
+Share of all genes diff. expr.: 34.99%
+------------------------------------------------- 
+
+Fisher-test p-value: 0.017

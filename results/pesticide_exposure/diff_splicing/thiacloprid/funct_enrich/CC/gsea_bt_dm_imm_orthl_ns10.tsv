@@ -1,0 +1,11 @@
+GO.ID	Term	Annotated	Significant	Expected	weight01KS	classicKS	weight01KSpadj	classicKSpadj
+GO:0005622	intracellular	20	1	2.44	0.16	0.057	1	0.5700000000000001
+GO:0005634	nucleus	13	1	1.59	0.25	0.248	1	0.68
+GO:0032991	protein-containing complex	16	2	1.95	0.34	0.340	1	0.68
+GO:0043229	intracellular organelle	16	1	1.95	0.43	0.288	1	0.68
+GO:0016020	membrane	15	3	1.83	0.75	0.750	1	0.9375
+GO:0110165	cellular anatomical entity	36	4	4.39	0.98	0.933	1	1
+GO:0043231	intracellular membrane-bounded organelle	14	1	1.71	0.99	0.503	1	0.7185714285714286
+GO:0005575	cellular_component	41	5	5	1.00	1.000	1	1
+GO:0043226	organelle	16	1	1.95	1.00	0.288	1	0.68
+GO:0043227	membrane-bounded organelle	14	1	1.71	1.00	0.503	1	0.7185714285714286

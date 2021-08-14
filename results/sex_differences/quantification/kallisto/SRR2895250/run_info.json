@@ -1,0 +1,13 @@
+{
+	"n_targets": 26926,
+	"n_bootstraps": 0,
+	"n_processed": 26748811,
+	"n_pseudoaligned": 23590723,
+	"n_unique": 11811663,
+	"p_pseudoaligned": 88.2,
+	"p_unique": 44.2,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Thu Jun 17 11:54:07 2021",
+	"call": "/cluster/easybuild/broadwell/software/kallisto/0.46.1-foss-2019b/bin/kallisto quant -i /lustre/project/m2_jgu-funcpoll/data/reference/kallisto_index/Osmia_bicornis_v3.kallisto_index.idx -o /lustre/project/m2_jgu-funcpoll/results/PRJNA285788/after_trimming/quantification/kallisto/SRR2895250 --threads 5 /lustre/project/m2_jgu-funcpoll/data/datasets/PRJNA285788/fastp-trimmed/male/SRR2895250_1_trimmed.fastq.gz /lustre/project/m2_jgu-funcpoll/data/datasets/PRJNA285788/fastp-trimmed/male/SRR2895250_2_trimmed.fastq.gz"
+}

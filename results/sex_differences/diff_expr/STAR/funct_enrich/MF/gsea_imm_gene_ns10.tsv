@@ -1,0 +1,131 @@
+GO.ID	Term	Annotated	Significant	Expected	weight01KS	classicKS	weight01KSpadj	classicKSpadj
+GO:0019899	enzyme binding	66	44	33.55	7.2e-05	0.00487	0.00936	0.31655
+GO:0003723	RNA binding	44	34	22.36	0.0011	0.00015	0.07150000000000001	0.0195
+GO:0003729	mRNA binding	13	11	6.61	0.0093	0.00926	0.39975	0.31901999999999997
+GO:0020037	heme binding	11	10	5.59	0.0123	0.01227	0.39975	0.31901999999999997
+GO:0016788	hydrolase activity, acting on ester bonds	20	13	10.17	0.0365	0.08587	0.7995000000000001	0.5875315789473684
+GO:0004601	peroxidase activity	14	11	7.12	0.0369	0.03692	0.7995000000000001	0.37635
+GO:0140098	catalytic activity, acting on RNA	24	17	12.2	0.0570	0.02496	0.884	0.37635
+GO:0042803	protein homodimerization activity	23	16	11.69	0.0601	0.06010	0.884	0.4681529411764706
+GO:0060090	molecular adaptor activity	10	8	5.08	0.0612	0.06122	0.884	0.4681529411764706
+GO:0004842	ubiquitin-protein transferase activity	22	15	11.18	0.0755	0.15110	0.9814999999999999	0.7275185185185186
+GO:0016301	kinase activity	41	19	20.84	0.0912	0.82828	0.9872777777777777	1
+GO:0004386	helicase activity	19	14	9.66	0.0986	0.02925	0.9872777777777777	0.37635
+GO:0008047	enzyme activator activity	11	9	5.59	0.1086	0.10858	0.9872777777777777	0.6149
+GO:0003724	RNA helicase activity	14	10	7.12	0.1107	0.11072	0.9872777777777777	0.6149
+GO:0016787	hydrolase activity	126	65	64.04	0.1188	0.29156	0.9872777777777777	0.8647954545454546
+GO:0003682	chromatin binding	17	11	8.64	0.1221	0.12211	0.9872777777777777	0.634972
+GO:0046872	metal ion binding	100	57	50.83	0.1341	0.11270	0.9872777777777777	0.6149
+GO:0000166	nucleotide binding	89	46	45.24	0.1367	0.29270	0.9872777777777777	0.8647954545454546
+GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	35	15	17.79	0.1470	0.51655	1	0.9763
+GO:0042393	histone binding	11	8	5.59	0.1647	0.16469	1	0.7382655172413792
+GO:0016740	transferase activity	101	58	51.33	0.1649	0.21927	1	0.8167714285714286
+GO:0046914	transition metal ion binding	34	21	17.28	0.2072	0.27381	1	0.8647954545454546
+GO:0005524	ATP binding	68	38	34.56	0.2199	0.21990	1	0.8167714285714286
+GO:0016772	transferase activity, transferring phosphorus-containing groups	47	23	23.89	0.2418	0.77905	1	1
+GO:0016209	antioxidant activity	18	13	9.15	0.2493	0.03177	1	0.37635
+GO:0005198	structural molecule activity	12	7	6.1	0.2870	0.28703	1	0.8647954545454546
+GO:1901363	heterocyclic compound binding	184	101	93.52	0.3130	0.03820	1	0.37635
+GO:0038023	signaling receptor activity	26	15	13.21	0.3153	0.55630	1	0.9763
+GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	19	9	9.66	0.3162	0.31620	1	0.8936086956521739
+GO:0061630	ubiquitin protein ligase activity	14	8	7.12	0.3381	0.33814	1	0.9352808510638299
+GO:0003700	DNA-binding transcription factor activity	43	19	21.86	0.3435	0.47130	1	0.9748171875
+GO:0005543	phospholipid binding	13	6	6.61	0.3494	0.90668	1	1
+GO:0005515	protein binding	292	154	148.41	0.3554	0.46924	1	0.9748171875
+GO:0140096	catalytic activity, acting on a protein	128	61	65.06	0.3565	0.58901	1	0.9763
+GO:0008270	zinc ion binding	30	18	15.25	0.3783	0.37829	1	0.9734947368421053
+GO:0004252	serine-type endopeptidase activity	20	11	10.17	0.3972	0.39719	1	0.9734947368421053
+GO:0017016	Ras GTPase binding	12	8	6.1	0.4190	0.41896	1	0.9734947368421053
+GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	23	9	11.69	0.4268	0.42684	1	0.9734947368421053
+GO:0061659	ubiquitin-like protein ligase activity	15	9	7.62	0.4300	0.27765	1	0.8647954545454546
+GO:0098772	molecular function regulator	105	51	53.37	0.4406	0.41256	1	0.9734947368421053
+GO:0043565	sequence-specific DNA binding	42	18	21.35	0.4661	0.58903	1	0.9763
+GO:0017111	nucleoside-triphosphatase activity	39	23	19.82	0.4849	0.14185	1	0.70925
+GO:0030234	enzyme regulator activity	29	17	14.74	0.4918	0.52048	1	0.9763
+GO:0003712	transcription coregulator activity	14	8	7.12	0.5190	0.51896	1	0.9763
+GO:0008233	peptidase activity	49	20	24.9	0.5235	0.71006	1	1
+GO:0003824	catalytic activity	255	140	129.61	0.5327	0.04362	1	0.37804
+GO:0016491	oxidoreductase activity	26	16	13.21	0.5386	0.19632	1	0.7733818181818182
+GO:0008234	cysteine-type peptidase activity	14	6	7.12	0.5596	0.76193	1	1
+GO:0016773	phosphotransferase activity, alcohol group as acceptor	37	15	18.81	0.5680	0.86099	1	1
+GO:0004857	enzyme inhibitor activity	15	7	7.62	0.5953	0.86595	1	1
+GO:0008092	cytoskeletal protein binding	17	8	8.64	0.6146	0.61464	1	0.9864592592592593
+GO:0003677	DNA binding	68	31	34.56	0.6360	0.55619	1	0.9763
+GO:0019787	ubiquitin-like protein transferase activity	26	18	13.21	0.6415	0.11352	1	0.6149
+GO:0061134	peptidase regulator activity	14	6	7.12	0.6665	0.82926	1	1
+GO:0005488	binding	400	211	203.31	0.6679	0.07477	1	0.5400055555555556
+GO:0097367	carbohydrate derivative binding	101	50	51.33	0.6933	0.58873	1	0.9763
+GO:0005215	transporter activity	12	5	6.1	0.6937	0.69371	1	1
+GO:0046983	protein dimerization activity	42	23	21.35	0.6988	0.39960	1	0.9734947368421053
+GO:0016887	ATPase activity	23	16	11.69	0.7064	0.04053	1	0.37635
+GO:0004888	transmembrane signaling receptor activity	17	10	8.64	0.7503	0.75026	1	1
+GO:0042578	phosphoric ester hydrolase activity	11	6	5.59	0.7634	0.76342	1	1
+GO:0097159	organic cyclic compound binding	188	103	95.55	0.7671	0.03511	1	0.37635
+GO:0016798	hydrolase activity, acting on glycosyl bonds	14	7	7.12	0.7818	0.78185	1	1
+GO:0000976	transcription regulatory region sequence-specific DNA binding	37	16	18.81	0.7825	0.60080	1	0.9763
+GO:0044877	protein-containing complex binding	22	10	11.18	0.7858	0.78580	1	1
+GO:0004197	cysteine-type endopeptidase activity	11	5	5.59	0.7864	0.78643	1	1
+GO:0004713	protein tyrosine kinase activity	15	8	7.62	0.7909	0.79088	1	1
+GO:0003676	nucleic acid binding	111	65	56.42	0.8173	0.02738	1	0.37635
+GO:0008083	growth factor activity	14	4	7.12	0.8178	0.81776	1	1
+GO:0005509	calcium ion binding	17	9	8.64	0.8208	0.82078	1	1
+GO:0043168	anion binding	103	50	52.35	0.8211	0.70797	1	1
+GO:0048018	receptor ligand activity	19	6	9.66	0.8339	0.77833	1	1
+GO:0140297	DNA-binding transcription factor binding	15	6	7.62	0.8421	0.84205	1	1
+GO:1901981	phosphatidylinositol phosphate binding	10	4	5.08	0.8434	0.84340	1	1
+GO:0004866	endopeptidase inhibitor activity	12	5	6.1	0.8523	0.85232	1	1
+GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding	32	14	16.26	0.8588	0.57489	1	0.9763
+GO:0019901	protein kinase binding	25	14	12.71	0.8684	0.86839	1	1
+GO:0008236	serine-type peptidase activity	21	11	10.67	0.8706	0.50385	1	0.9763
+GO:0004674	protein serine/threonine kinase activity	26	8	13.21	0.8983	0.89828	1	1
+GO:0005539	glycosaminoglycan binding	12	4	6.1	0.9154	0.91544	1	1
+GO:0008134	transcription factor binding	30	12	15.25	0.9245	0.87267	1	1
+GO:0036094	small molecule binding	92	47	46.76	0.9245	0.34877	1	0.9445854166666667
+GO:0003924	GTPase activity	15	6	7.62	0.9263	0.92631	1	1
+GO:0005121	Toll binding	10	3	5.08	0.9542	0.95416	1	1
+GO:0019900	kinase binding	28	15	14.23	0.9615	0.95528	1	1
+GO:0016462	pyrophosphatase activity	40	23	20.33	0.9654	0.19468	1	0.7733818181818182
+GO:0004175	endopeptidase activity	39	16	19.82	0.9746	0.80334	1	1
+GO:0019904	protein domain specific binding	17	5	8.64	0.9786	0.97857	1	1
+GO:0030246	carbohydrate binding	18	7	9.15	0.9797	0.97971	1	1
+GO:0042802	identical protein binding	36	22	18.3	0.9849	0.26274	1	0.8647954545454546
+GO:0005525	GTP binding	17	6	8.64	0.9882	0.98820	1	1
+GO:0046982	protein heterodimerization activity	15	4	7.62	0.9935	0.99355	1	1
+GO:0005102	signaling receptor binding	51	20	25.92	0.9973	0.97604	1	1
+GO:0008289	lipid binding	21	9	10.67	0.9988	0.99701	1	1
+GO:0035091	phosphatidylinositol binding	11	4	5.59	0.9991	0.99044	1	1
+GO:0003674	molecular_function	484	246	246	1.0000	1.00000	1	1
+GO:0019001	guanyl nucleotide binding	18	6	9.15	1.0000	0.99896	1	1
+GO:0000987	cis-regulatory region sequence-specific DNA binding	19	9	9.66	1.0000	0.31620	1	0.8936086956521739
+GO:0032549	ribonucleoside binding	17	6	8.64	1.0000	0.98820	1	1
+GO:0003690	double-stranded DNA binding	37	16	18.81	1.0000	0.60080	1	0.9763
+GO:0060089	molecular transducer activity	26	15	13.21	1.0000	0.55630	1	0.9763
+GO:0046906	tetrapyrrole binding	11	10	5.59	1.0000	0.01227	1	0.31901999999999997
+GO:0032561	guanyl ribonucleotide binding	18	6	9.15	1.0000	0.99896	1	1
+GO:0051020	GTPase binding	12	8	6.1	1.0000	0.41896	1	0.9734947368421053
+GO:0030554	adenyl nucleotide binding	69	38	35.07	1.0000	0.27193	1	0.8647954545454546
+GO:0004672	protein kinase activity	36	14	18.3	1.0000	0.86909	1	1
+GO:0031267	small GTPase binding	12	8	6.1	1.0000	0.41896	1	0.9734947368421053
+GO:0140110	transcription regulator activity	53	25	26.94	1.0000	0.47975	1	0.9748171875
+GO:0032550	purine ribonucleoside binding	17	6	8.64	1.0000	0.98820	1	1
+GO:1901265	nucleoside phosphate binding	89	46	45.24	1.0000	0.29270	1	0.8647954545454546
+GO:0032553	ribonucleotide binding	86	44	43.71	1.0000	0.47991	1	0.9748171875
+GO:0032555	purine ribonucleotide binding	86	44	43.71	1.0000	0.47991	1	0.9748171875
+GO:0032559	adenyl ribonucleotide binding	69	38	35.07	1.0000	0.27193	1	0.8647954545454546
+GO:0016684	oxidoreductase activity, acting on peroxide as acceptor	14	11	7.12	1.0000	0.03692	1	0.37635
+GO:0016817	hydrolase activity, acting on acid anhydrides	40	23	20.33	1.0000	0.19468	1	0.7733818181818182
+GO:0016818	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	40	23	20.33	1.0000	0.19468	1	0.7733818181818182
+GO:0061135	endopeptidase regulator activity	12	5	6.1	1.0000	0.85232	1	1
+GO:0043167	ion binding	190	101	96.57	1.0000	0.16015	1	0.7382655172413792
+GO:0043169	cation binding	100	57	50.83	1.0000	0.11270	1	0.6149
+GO:0030414	peptidase inhibitor activity	12	5	6.1	1.0000	0.85232	1	1
+GO:0001882	nucleoside binding	17	6	8.64	1.0000	0.98820	1	1
+GO:0001883	purine nucleoside binding	17	6	8.64	1.0000	0.98820	1	1
+GO:0001216	DNA-binding transcription activator activity	23	9	11.69	1.0000	0.42684	1	0.9734947368421053
+GO:1990837	sequence-specific double-stranded DNA binding	37	16	18.81	1.0000	0.60080	1	0.9763
+GO:0035639	purine ribonucleoside triphosphate binding	85	44	43.2	1.0000	0.45761	1	0.9748171875
+GO:0001067	regulatory region nucleic acid binding	37	16	18.81	1.0000	0.60080	1	0.9763
+GO:0030545	receptor regulator activity	19	6	9.66	1.0000	0.77833	1	1
+GO:0017171	serine hydrolase activity	21	11	10.67	1.0000	0.50385	1	0.9763
+GO:0030546	signaling receptor activator activity	19	6	9.66	1.0000	0.77833	1	1
+GO:0017076	purine nucleotide binding	86	44	43.71	1.0000	0.47991	1	0.9748171875

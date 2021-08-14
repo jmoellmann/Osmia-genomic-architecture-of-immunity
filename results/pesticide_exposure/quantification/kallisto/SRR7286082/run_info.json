@@ -1,0 +1,13 @@
+{
+	"n_targets": 26926,
+	"n_bootstraps": 0,
+	"n_processed": 6166334,
+	"n_pseudoaligned": 5348327,
+	"n_unique": 2906986,
+	"p_pseudoaligned": 86.7,
+	"p_unique": 47.1,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Fri Jun 18 13:36:46 2021",
+	"call": "/cluster/easybuild/broadwell/software/kallisto/0.46.1-foss-2019b/bin/kallisto quant -i /lustre/project/m2_jgu-funcpoll/data/reference/kallisto_index/Osmia_bicornis_v3.kallisto_index.idx -o /lustre/project/m2_jgu-funcpoll/results/PRJNA285788/pesticide_exposure/after_trimming/quantification/kallisto/SRR7286082 --threads 5 /lustre/project/m2_jgu-funcpoll/data/datasets/PRJNA285788/pesticide_exposure/fastp-trimmed/control/SRR7286082_1_trimmed.fastq.gz /lustre/project/m2_jgu-funcpoll/data/datasets/PRJNA285788/pesticide_exposure/fastp-trimmed/control/SRR7286082_2_trimmed.fastq.gz"
+}
